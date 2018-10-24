@@ -1,0 +1,17 @@
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\bin\Release\AutoPacket.exe.config
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\bin\Release\AutoPacket.exe
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\bin\Release\AutoPacket.pdb
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.Form1.resources
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.Properties.Resources.resources
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.csproj.GenerateResource.Cache
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.exe
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.pdb
+H:\20180504笔记本备份文件\E\SVN\trunk\AutoUpdate\AutoPacket\obj\Release\AutoPacket.csprojResolveAssemblyReference.cache
+E:\Code\AutoUpdate\AutoPacket\bin\Release\AutoPacket.exe.config
+E:\Code\AutoUpdate\AutoPacket\obj\Release\AutoPacket.exe
+E:\Code\AutoUpdate\AutoPacket\obj\Release\AutoPacket.pdb
+E:\Code\AutoUpdate\AutoPacket\bin\Release\AutoPacket.exe
+E:\Code\AutoUpdate\AutoPacket\bin\Release\AutoPacket.pdb
+E:\Code\AutoUpdate\AutoPacket\obj\Release\AutoPacket.Form1.resources
+E:\Code\AutoUpdate\AutoPacket\obj\Release\AutoPacket.Properties.Resources.resources
+E:\Code\AutoUpdate\AutoPacket\obj\Release\AutoPacket.csproj.GenerateResource.Cache
